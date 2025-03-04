@@ -1,2 +1,1 @@
-# meu-portfolio
-Um estudo sobre HTML e CSS, e como eu acho que seria o meu repositório. 
+<h1>💼 Meu Portfólio: Um estudo sobre a uilização do HTML & CSS</h1>
