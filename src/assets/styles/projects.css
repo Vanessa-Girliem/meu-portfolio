@@ -1,0 +1,80 @@
+body{
+  background-color: #102820;
+  color: #e4e4e4;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1{
+  color: #eaf1ac;
+}
+
+.cabeçalho{
+  background-color: #eaf1ac;
+  color: #121212;
+  padding-left: 25px;
+  padding-right: 30px;
+  border: none;
+  border-radius: 20px;
+  font-size: 14px;
+  font-weight: 500;
+  padding: 10px 20px;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.projeto1{
+    text-align: left;
+}
+
+.projeto1 .imagem-projeto1 img{
+  border-radius: 20px;
+  margin-left: 30px;
+}
+
+.projeto1 h2{
+  color: #CEF17B;
+}
+
+.projeto2{
+    text-align: left;
+}
+
+.projeto2 h2{
+  color: #CEF17B;
+}
+
+.projeto3 h2{
+  color: #CEF17B;
+}
+
+.projeto3{
+    text-align: left;
+}
+
+.projeto3 h2{
+  color: #CEF17B;
+}
+
+.projeto4{
+    text-align: left;
+}
+
+.projeto4 h2{
+  color: #CEF17B;
+}
+
+details{
+  padding-left: 20px;
+}
+
+summary{
+  font-weight: 500;
+}
+
+.projetos_title{
+    background-color: #eaf1ac;
+    border-radius: 50px;
+    font-size: 13px;
+}
